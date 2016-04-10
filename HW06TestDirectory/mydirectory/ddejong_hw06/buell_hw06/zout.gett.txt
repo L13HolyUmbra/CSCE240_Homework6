@@ -1,0 +1,103 @@
+Message is
+ 9237     0   101  Four score :    1
+ 9237     1   101  and seven years :    4
+ 9237     2   101  ago, our fathers brought :    3
+ 9237     3   101  forth upon this continent :    4
+ 9237     4   101  a new :    2
+ 9237     5   101  nation: conceived :    5
+ 9237     6   101  in liberty, and dedicated :    4
+ 9237     7   101  to the proposition that all :    6
+ 9237     8   101  men are :    5
+ 9237     9   101  created equal. :    3
+ 9237    10   101   :    0
+ 9237    11   101  Now we are engaged :    4
+ 9237    12   101  in a great :    6
+ 9237    13   101  civil war. . :    5
+ 9237    14   101  .testing :    3
+ 9237    15   101  whether that :    7
+ 9237    16   101  nation, or :    6
+ 9237    17   101  any :    5
+ 9237    18   101  nation so conceived :    6
+ 9237    19   101  and so dedicated. :    4
+ 9237    20   101  . . can long :    2
+ 9237    21   101  endure. We :    5
+ 9237    22   101  are met on :    4
+ 9237    23   101  a :    3
+ 9237    24   101  great battlefield of that :    4
+ 9237    25   101  war. :    5
+ 9237    26   101   :    1
+ 9237    27   101  We have come to dedicate :    4
+ 9237    28   101  a portion of that field :    5
+ 9237    29   101  as a :    6
+ 9237    30   101  final resting place :    7
+ 9237    31   101  for :    8
+ 9237    32   101  those who here :   10
+ 9237    33   101  gave their lives that :    9
+ 9237    34   101  that nation might live. :   10
+ 9237    35   101  It is altogether :    3
+ 9237    36   101  fitting :    5
+ 9237    37   101  and proper :    4
+ 9237    38   101  that we should do :    5
+ 9237    39   101  this. :    6
+ 9237    40   101   :    2
+ 9237    41   101  But, in a larger sense, :    5
+ 9237    42   101  we cannot dedicate. :    6
+ 9237    43   101  . .we cannot :    4
+ 9237    44   101  consecrate. . . we :    8
+ 9237    45   101  cannot :    7
+ 9237    46   101  hallow :    8
+ 9237    47   101  this ground. The brave :   10
+ 9237    48   101  men, living :    9
+ 9237    49   101  and dead, :    6
+ 9237    50   101  who struggled here :    8
+ 9237    51   101  have consecrated :    7
+ 9237    52   101  it, far above :    8
+ 9237    53   101  our poor power to :    9
+ 9237    54   101  add or detract. The :    5
+ 9237    55   101  world will :   10
+ 9237    56   101  little note, nor :    9
+ 9237    57   101  long remember, what we :   10
+ 9237    58   101  say here, but :   11
+ 9237    59   101  it can never :    8
+ 9237    60   101  forget what they :    7
+ 9237    61   101  did here. :    6
+ 9237    62   101   :    3
+ 9237    63   101  It is for us :    6
+ 9237    64   101  the living, :    9
+ 9237    65   101  rather, to be :    8
+ 9237    66   101  dedicated here to :    7
+ 9237    67   101  the :   11
+ 9237    68   101  unfinished work which :   13
+ 9237    69   101  they who fought :   12
+ 9237    70   101  here have thus far :   10
+ 9237    71   101  so nobly advanced. It :   12
+ 9237    72   101  is rather :   11
+ 9237    73   101  for us to be here :    9
+ 9237    74   101  dedicated to the :    8
+ 9237    75   101  great task remaining before :   11
+ 9237    76   101  us. . .that :   12
+ 9237    77   101  from these honored dead :   10
+ 9237    78   101  we take increased :   11
+ 9237    79   101  devotion to that cause :    9
+ 9237    80   101  for which they :   10
+ 9237    81   101  gave the :   11
+ 9237    82   101  last full measure :   12
+ 9237    83   101  of devotion. . :   13
+ 9237    84   101  . that we here :    5
+ 9237    85   101  highly resolve that these :    8
+ 9237    86   101  dead shall not :    7
+ 9237    87   101  have died :    8
+ 9237    88   101  in :    9
+ 9237    89   101  vain. . . that :   11
+ 9237    90   101  this nation, under :   10
+ 9237    91   101  God, shall have a :    6
+ 9237    92   101  new birth of freedom. . . :    8
+ 9237    93   101  and that :    7
+ 9237    94   101  government of :    8
+ 9237    95   101  the people. . .by :   10
+ 9237    96   101  the people. . .for :   11
+ 9237    97   101  the people. . :    9
+ 9237    98   101  . shall :    4
+ 9237    99   101  not perish :    6
+ 9237   100   101  from the earth.  :    5
+

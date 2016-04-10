@@ -1,0 +1,20 @@
+Message is
+ 1357     0    18  We the People :    4
+ 1357     1    18  of the United :    5
+ 1357     2    18  States, in Order :    3
+ 1357     3    18  to form a :    2
+ 1357     4    18  more perfect Union, :    3
+ 1357     5    18  establish Justice, insure :    1
+ 1357     6    18  domestic Tranquility, provide :    3
+ 1357     7    18  for the common :    6
+ 1357     8    18  defence, promote the :    5
+ 1357     9    18  general Welfare, and :    4
+ 1357    10    18  secure the Blessings :    5
+ 1357    11    18  of Liberty to :    2
+ 1357    12    18  ourselves and our :    4
+ 1357    13    18  Posterity, do ordain :    5
+ 1357    14    18  and establish this :    6
+ 1357    15    18  Constitution for the :    7
+ 1357    16    18  United States of :    3
+ 1357    17    18  America. :    0
+
